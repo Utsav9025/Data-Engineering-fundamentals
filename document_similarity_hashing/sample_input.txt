@@ -1,0 +1,8 @@
+Machine learning is a branch of artificial intelligence that allows computers to learn from data and make predictions.
+Cloud computing provides scalable computing resources and storage services over the internet for businesses and users.
+Natural language processing enables computers to understand analyze and generate human language using computational methods.
+Database systems are used to efficiently store organize retrieve and manage large amounts of structured information.
+Deep learning uses artificial neural networks with multiple layers to learn complex patterns from large datasets.
+Cyber security focuses on protecting computer systems networks and sensitive information from attacks and unauthorized access.
+Data engineering involves collecting transforming storing and processing large volumes of data for analysis and machine learning.
+Computer vision allows machines to analyze understand and extract useful information from digital images and videos.
